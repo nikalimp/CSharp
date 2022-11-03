@@ -1,4 +1,8 @@
-﻿Console.Write("What's your name?");
+﻿Console.WriteLine("What's your name?");
 string username = Console.ReadLine();
 Console.Write("Hi, ");
-Console.Write(username);
+Console.WriteLine(username);
+
+int numberA = 3;
+int numberB = 4;
+Console.WriteLine(numberA + numberB);

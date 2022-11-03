@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitaalimpiev/CSharp/Sum/Sum.csproj": {}
+    "/Users/nikitaalimpiev/CSharp/Hi/Hi.csproj": {}
   },
   "projects": {
-    "/Users/nikitaalimpiev/CSharp/Sum/Sum.csproj": {
+    "/Users/nikitaalimpiev/CSharp/Hi/Hi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitaalimpiev/CSharp/Sum/Sum.csproj",
-        "projectName": "Sum",
-        "projectPath": "/Users/nikitaalimpiev/CSharp/Sum/Sum.csproj",
+        "projectUniqueName": "/Users/nikitaalimpiev/CSharp/Hi/Hi.csproj",
+        "projectName": "Hi",
+        "projectPath": "/Users/nikitaalimpiev/CSharp/Hi/Hi.csproj",
         "packagesPath": "/Users/nikitaalimpiev/.nuget/packages/",
-        "outputPath": "/Users/nikitaalimpiev/CSharp/Sum/obj/",
+        "outputPath": "/Users/nikitaalimpiev/CSharp/Hi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitaalimpiev/.nuget/NuGet/NuGet.Config"

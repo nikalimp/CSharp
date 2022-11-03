@@ -1,0 +1,15 @@
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.csproj.AssemblyReference.cache
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.AssemblyInfoInputs.cache
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.AssemblyInfo.cs
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.csproj.CoreCompileInputs.cache
+/Users/nikitaalimpiev/CSharp/Hi/bin/Debug/net6.0/Hi
+/Users/nikitaalimpiev/CSharp/Hi/bin/Debug/net6.0/Hi.deps.json
+/Users/nikitaalimpiev/CSharp/Hi/bin/Debug/net6.0/Hi.runtimeconfig.json
+/Users/nikitaalimpiev/CSharp/Hi/bin/Debug/net6.0/Hi.dll
+/Users/nikitaalimpiev/CSharp/Hi/bin/Debug/net6.0/Hi.pdb
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.dll
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/refint/Hi.dll
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.pdb
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/Hi.genruntimeconfig.cache
+/Users/nikitaalimpiev/CSharp/Hi/obj/Debug/net6.0/ref/Hi.dll
